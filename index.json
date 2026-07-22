@@ -113,8 +113,8 @@
       "tagline": "Visuals that move with your melody.",
       "description": "Hundreds of musical visuals built around notes themselves: constellations that chart your chords, auroras that breathe with your phrasing, geometry that turns scales into structure. Every visual listens to velocity, bend, and pressure, so what you see is always what you played.",
       "content": [
-        "275 visuals",
-        "1054 looks"
+        "297 visuals",
+        "1157 looks"
       ],
       "order": 101,
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes-cover.png",
@@ -122,7 +122,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes.sonaripack.zip",
-          "sha256": "8fc56b1cca9d349dc27559e036ca8908fea9e187d69693807c84d89c70216811",
+          "sha256": "0f53064dbad77def911558489047c8f13875b2c9e52526898bb4b89dfb033714",
           "sizeMB": 7
         }
       ]
@@ -134,8 +134,8 @@
       "tagline": "Water, gravity, fire and light that answer your hands.",
       "description": "The physics collection: fluids that ripple where notes land, marble veined by your harmony, particle storms kicked by every attack, and lattices that bend under tension. Play gently and the world settles; play hard and it erupts.",
       "content": [
-        "651 visuals",
-        "2408 looks"
+        "682 visuals",
+        "2536 looks"
       ],
       "order": 102,
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces-cover.png",
@@ -143,7 +143,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces.sonaripack.zip",
-          "sha256": "ad11042b9c37bf1f1dd1a80de4bb16192a35515a3663056075fb6b1dddfefbbb",
+          "sha256": "d5ee4e0afdab98760177db2d07b8e5bc814d862767fdc8455072575f6fc4c670",
           "sizeMB": 13
         }
       ]
@@ -164,7 +164,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds.sonaripack.zip",
-          "sha256": "a2febdea919b39ec7095f4c32abb8598b386f3bdfb9d17b9968ae93beb86d81d",
+          "sha256": "ffda8f4a9b37d6d0fdb93854823f5606587a14457be4027f1b715acb5b1703a0",
           "sizeMB": 4
         }
       ]
