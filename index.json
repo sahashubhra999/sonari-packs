@@ -1,0 +1,173 @@
+{
+  "schemaVersion": 1,
+  "packs": [
+    {
+      "id": "concert-library",
+      "kind": "sound",
+      "name": "Orchestra & World",
+      "tagline": "Real recorded orchestra, keys, choirs, and instruments from around the world.",
+      "description": "Real recorded orchestra, keys, choirs, and instruments from around the world.",
+      "content": [],
+      "order": 0,
+      "license": "MuseScore General SoundFont, MIT license.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/concert-library-v1/concert-library.sf2",
+        "sha256": "ee51d2c4b1525e70f19a45909c4fd7a2e26d91d115fa89dbf5a6bc413d8b9bf3",
+        "sizeMB": 206
+      }
+    },
+    {
+      "id": "studio-gm",
+      "kind": "sound",
+      "name": "Studio Collection",
+      "tagline": "A full studio in one quick download: keys, guitars, basses, brass, winds, synths, and world.",
+      "description": "A full studio in one quick download: keys, guitars, basses, brass, winds, synths, and world.",
+      "content": [],
+      "order": 1,
+      "license": "GeneralUser GS by S. Christian Collins, free license.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/studio-gm-v1/studio-gm.sf2",
+        "sha256": "9575028c7a1f589f5770fccc8cff2734566af40cd26ed836944e9a5152688cfe",
+        "sizeMB": 31
+      }
+    },
+    {
+      "id": "salamander-grand",
+      "kind": "sound",
+      "name": "Concert Grand Piano",
+      "tagline": "One world-class grand piano, sampled note by note at sixteen dynamic layers.",
+      "description": "One world-class grand piano, sampled note by note at sixteen dynamic layers.",
+      "content": [],
+      "order": 2,
+      "license": "Salamander Grand Piano by Alexander Holm, CC-BY 3.0.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/salamander-grand-v1/salamander-grand.sf2",
+        "sha256": "712d0e681efbe5203a8014e9b3e84168f1908c82f2f6fb13bd2c77d6d72c70b7",
+        "sizeMB": 1208
+      }
+    },
+    {
+      "id": "spanish-guitar",
+      "kind": "sound",
+      "name": "Spanish Guitar",
+      "tagline": "A real classical guitar, close enough to hear the nails.",
+      "description": "A real classical guitar, close enough to hear the nails.",
+      "content": [],
+      "order": 3,
+      "license": "FreePats project, CC0 public domain.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/spanish-guitar-v1/spanish-guitar.sf2",
+        "sha256": "0d4c08ea8c1c8924b3829084b0c8778f6d6b906f331e44fde51bc159f76b03b9",
+        "sizeMB": 19
+      }
+    },
+    {
+      "id": "hang-drum",
+      "kind": "sound",
+      "name": "Hang Drum",
+      "tagline": "A real handpan: struck air, meditative ring, made for slow hands.",
+      "description": "A real handpan: struck air, meditative ring, made for slow hands.",
+      "content": [],
+      "order": 4,
+      "license": "FreePats project, CC0 public domain.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/hang-drum-v1/hang-drum.sf2",
+        "sha256": "6148308e484754c6a5468b344e46ed7b118ae73e12cb20231e2425e2beeef7f5",
+        "sizeMB": 26
+      }
+    },
+    {
+      "id": "glass-voices",
+      "kind": "sound",
+      "name": "Glass",
+      "tagline": "Real played glass: pure, airy, and spatial.",
+      "description": "Real played glass: pure, airy, and spatial.",
+      "content": [],
+      "order": 5,
+      "license": "FreePats project, CC0 public domain.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/glass-voices-v1/glass-voices.sf2",
+        "sha256": "c86204d29aa2cb660b00d074468dbfc642cd9b93bdfe639555ba008a6c283968",
+        "sizeMB": 26
+      }
+    },
+    {
+      "id": "kalimba-real",
+      "kind": "sound",
+      "name": "Kalimba",
+      "tagline": "A real kalimba's recorded tines.",
+      "description": "A real kalimba's recorded tines.",
+      "content": [],
+      "order": 6,
+      "license": "FreePats project, CC0 public domain.",
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/kalimba-real-v1/kalimba-real.sf2",
+        "sha256": "8232588e69ca4554f52bd9336099c45d2ca18bd8bc01b2efde8016bfee2db978",
+        "sizeMB": 10
+      }
+    },
+    {
+      "id": "living-notes",
+      "kind": "visual",
+      "name": "Living Notes",
+      "tagline": "Visuals that move with your melody.",
+      "description": "Hundreds of musical visuals built around notes themselves: constellations that chart your chords, auroras that breathe with your phrasing, geometry that turns scales into structure. Every visual listens to velocity, bend, and pressure, so what you see is always what you played.",
+      "content": [
+        "275 visuals",
+        "1054 looks"
+      ],
+      "order": 101,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes-cover.png",
+      "visualAssets": [
+        {
+          "abi": 1,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes.sonaripack.zip",
+          "sha256": "aa0e50009cefb95def32ccedf93dba70fcdaf8dd2578cb6d079f6e1295e9a73e",
+          "sizeMB": 7
+        }
+      ]
+    },
+    {
+      "id": "natural-forces",
+      "kind": "visual",
+      "name": "Natural Forces",
+      "tagline": "Water, gravity, fire and light that answer your hands.",
+      "description": "The physics collection: fluids that ripple where notes land, marble veined by your harmony, particle storms kicked by every attack, and lattices that bend under tension. Play gently and the world settles; play hard and it erupts.",
+      "content": [
+        "651 visuals",
+        "2408 looks"
+      ],
+      "order": 102,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces-cover.png",
+      "visualAssets": [
+        {
+          "abi": 1,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces.sonaripack.zip",
+          "sha256": "3bae019bccb79002b771722c355a898fd7a6d47ceebdbe7930c0c4286e128419",
+          "sizeMB": 13
+        }
+      ]
+    },
+    {
+      "id": "painted-worlds",
+      "kind": "visual",
+      "name": "Painted Worlds",
+      "tagline": "Art history as a living canvas.",
+      "description": "From Starry Night swirls to hard-edge minimalism: forty-eight painting styles reimagined as instruments. Brushwork follows your melody, palettes shift with your key, and every era answers your dynamics in its own voice.",
+      "content": [
+        "48 visuals",
+        "240 looks"
+      ],
+      "order": 103,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds-cover.png",
+      "visualAssets": [
+        {
+          "abi": 1,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds.sonaripack.zip",
+          "sha256": "c3e13f8e2cabb76c2c5a9eeb7e05b10f7fde72c809b54f1b1bc4964cf780522c",
+          "sizeMB": 4
+        }
+      ]
+    }
+  ]
+}
