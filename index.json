@@ -120,9 +120,9 @@
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes-cover.png",
       "visualAssets": [
         {
-          "abi": 1,
+          "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes.sonaripack.zip",
-          "sha256": "aa0e50009cefb95def32ccedf93dba70fcdaf8dd2578cb6d079f6e1295e9a73e",
+          "sha256": "8fc56b1cca9d349dc27559e036ca8908fea9e187d69693807c84d89c70216811",
           "sizeMB": 7
         }
       ]
@@ -141,9 +141,9 @@
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces-cover.png",
       "visualAssets": [
         {
-          "abi": 1,
+          "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces.sonaripack.zip",
-          "sha256": "3bae019bccb79002b771722c355a898fd7a6d47ceebdbe7930c0c4286e128419",
+          "sha256": "ad11042b9c37bf1f1dd1a80de4bb16192a35515a3663056075fb6b1dddfefbbb",
           "sizeMB": 13
         }
       ]
@@ -162,9 +162,9 @@
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds-cover.png",
       "visualAssets": [
         {
-          "abi": 1,
+          "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds.sonaripack.zip",
-          "sha256": "c3e13f8e2cabb76c2c5a9eeb7e05b10f7fde72c809b54f1b1bc4964cf780522c",
+          "sha256": "a2febdea919b39ec7095f4c32abb8598b386f3bdfb9d17b9968ae93beb86d81d",
           "sizeMB": 4
         }
       ]
