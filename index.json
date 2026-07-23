@@ -113,8 +113,8 @@
       "tagline": "Visuals that move with your melody.",
       "description": "Hundreds of musical visuals built around notes themselves: constellations that chart your chords, auroras that breathe with your phrasing, geometry that turns scales into structure. Every visual listens to velocity, bend, and pressure, so what you see is always what you played.",
       "content": [
-        "297 visuals",
-        "1157 looks"
+        "300 visuals",
+        "1180 looks"
       ],
       "order": 101,
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes-cover.png",
@@ -122,7 +122,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes.sonaripack.zip",
-          "sha256": "790ef65c2685af3bea0eeb7bb9f4e1d99ce62c3d8ac8d271386199d9c9d4a460",
+          "sha256": "85cf93699486c0f10eb86c0d3ac47b7013f4f1b6a7816a7906cebccd1961c01c",
           "sizeMB": 7
         }
       ]
@@ -143,8 +143,8 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces.sonaripack.zip",
-          "sha256": "7f108cc34b560b39689454713b96f3c3ee9b4cdd12f96d65d08bc555011aa791",
-          "sizeMB": 13
+          "sha256": "c676ac4a9d0bbe83d75c7e528ebf1da1fec110e4aeb8f985f47876a467105103",
+          "sizeMB": 14
         }
       ]
     },
@@ -164,7 +164,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds.sonaripack.zip",
-          "sha256": "64de1664e82835202a28bf558a9edd5f3da3c34d05ea915b80ce4f8b32726e3e",
+          "sha256": "799510f30bf787a31a64b8ad8775d8183204972ffd9e8b36e641d9eeb0cb59ba",
           "sizeMB": 4
         }
       ]
