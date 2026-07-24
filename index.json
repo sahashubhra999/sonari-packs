@@ -122,7 +122,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes.sonaripack.zip",
-          "sha256": "833f568dfd3554b3a1bc30f0db69ae5262266e9b2bd219776a11083a6bf2e46e",
+          "sha256": "7f42a5f63d2a8b6a80a7396254c96d451bc36faf2c5e0c302702682c285d9bb6",
           "sizeMB": 7
         }
       ]
@@ -143,7 +143,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces.sonaripack.zip",
-          "sha256": "64b9a77d0921a4c288e2ca218a481486dac399c71d3cee93a769d5cb2122c15e",
+          "sha256": "fb609cf1b8d2e6e737d9fa3543e3dfdc38e988e6288bf84a5c2a66afe9d08fbe",
           "sizeMB": 14
         }
       ]
@@ -164,7 +164,7 @@
         {
           "abi": 2,
           "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds.sonaripack.zip",
-          "sha256": "952ae68c0128a55d88f3651dc08199a446e2b89d9bf00001799c1d5bbede8342",
+          "sha256": "08ac95c782743eb8611365d4821551e14349a3695403c436bf237635e587506c",
           "sizeMB": 4
         }
       ]
