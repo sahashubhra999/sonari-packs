@@ -23942,205 +23942,256 @@
       }
     },
     {
+      "id": "cosmos",
+      "kind": "visual",
+      "name": "Cosmos",
+      "tagline": "Stars, orbits and deep space that answer your playing.",
+      "description": "A hundred and four families of space: constellations that chart your chords, auroras that breathe with your phrasing, orbital systems whose periods follow your intervals, nebulae that bloom on an attack. The widest of the visual packs and the one that suits held, slow playing best.",
+      "content": [
+        "104 visuals",
+        "487 looks"
+      ],
+      "order": 104,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/cosmos.sonaripack.zip",
+          "sha256": "379ddb8754d9e9ad8a6e72ab066aab7c9a9882794621a0e8ee9d515259b124c8",
+          "sizeMB": 5
+        }
+      ]
+    },
+    {
+      "id": "fractal-depths",
+      "kind": "visual",
+      "name": "Fractal Depths",
+      "tagline": "Infinite structure, entered rather than watched.",
+      "description": "Seventy-six raymarched and fractal families: Mandelbulbs, signed distance fields and iterated systems that you move through. Pitch drives depth and dynamics drive detail, so a rising line becomes a descent into structure.",
+      "content": [
+        "76 visuals",
+        "333 looks"
+      ],
+      "order": 107,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/fractal-depths.sonaripack.zip",
+          "sha256": "7f9a25b38b135d0f031da84d5a106b106b2012a8d90c30b668cf1053cf2af226",
+          "sizeMB": 5
+        }
+      ]
+    },
+    {
+      "id": "lattice-and-weave",
+      "kind": "visual",
+      "name": "Lattice and Weave",
+      "tagline": "Structures under tension that bend when you play.",
+      "description": "Eighty-four families of lattices, cloth and mesh that deform under load and stay deformed. A held chord holds the structure open; release it and the material recovers at its own rate. The most physical of the geometric packs.",
+      "content": [
+        "84 visuals",
+        "344 looks"
+      ],
+      "order": 109,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/lattice-and-weave.sonaripack.zip",
+          "sha256": "775cc7524c095fdd98bbcdc021d34adae10f996acc06a9d6310335159f5921f8",
+          "sizeMB": 5
+        }
+      ]
+    },
+    {
+      "id": "living-growth",
+      "kind": "visual",
+      "name": "Living Growth",
+      "tagline": "Systems that grow while you hold a note.",
+      "description": "Reaction diffusion, cellular automata and growth models: forty-six families that are alive whether or not you play, and that you disturb rather than trigger. Hold a note and the pattern keeps developing; strike hard and it reorganises around the strike.",
+      "content": [
+        "46 visuals",
+        "183 looks"
+      ],
+      "order": 103,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/living-growth.sonaripack.zip",
+          "sha256": "246871b2546109ce5b2a9886e94ee472a443c57b18297477f65c2474e5047760",
+          "sizeMB": 5
+        }
+      ]
+    },
+    {
       "id": "living-notes",
       "kind": "visual",
       "name": "Living Notes",
-      "tagline": "Visuals that move with your melody.",
-      "description": "Living Notes is the collection that listens hardest. Its visuals are built around musical structure rather than around motion: constellations that redraw as a chord changes, auroras that widen with a bend, geometry that turns a scale into architecture. Three hundred visuals, each with several looks, and every one of them takes velocity, pitch bend and pressure as real inputs. If you want the screen to show what you are playing rather than merely react to it, start here.",
+      "tagline": "Visuals that show what you played, not just that you played.",
+      "description": "A hundred and twenty-seven families built on notes themselves: chord shapes, scale degrees and voice leading drive the picture directly. Velocity, bend and pressure are separate inputs, so a held note keeps developing rather than freezing.",
       "content": [
-        "300 visuals",
-        "1724+ tagged looks",
-        "Every visual answers velocity, bend and pressure"
+        "127 visuals",
+        "294 looks"
       ],
-      "order": 100,
-      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes-cover.png",
+      "order": 111,
+      "coverURL": null,
       "visualAssets": [
         {
           "abi": 2,
-          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes.sonaripack.zip",
-          "sha256": "7f42a5f63d2a8b6a80a7396254c96d451bc36faf2c5e0c302702682c285d9bb6",
-          "sizeMB": 7
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/living-notes.sonaripack.zip",
+          "sha256": "7554706b48b2c4ab70ed7c9e473c1c6d3d71ce1081ea19e5e4312eb1aaec67e3",
+          "sizeMB": 6
         }
-      ],
-      "subtitle": "Visuals that read what you played, not just that you played.",
-      "highlights": [
-        {
-          "symbolName": "music.note",
-          "title": "Built on notes, not noise",
-          "detail": "Chords, intervals and scale degrees drive the geometry, so the picture changes meaningfully when the music does."
-        },
-        {
-          "symbolName": "hand.raised",
-          "title": "Expression reaches the screen",
-          "detail": "Velocity, bend and pressure are separate inputs here, which is why a held note keeps developing instead of freezing."
-        },
-        {
-          "symbolName": "square.grid.3x3",
-          "title": "Three hundred visuals, 1,180 looks",
-          "detail": "Each visual ships with several ready palettes and settings, so the variety is in the pack rather than in your setup time."
-        }
-      ],
-      "families": [
-        {
-          "name": "Note and chord",
-          "symbolName": "music.note",
-          "count": 724
-        },
-        {
-          "name": "Structural",
-          "symbolName": "square.grid.3x3",
-          "count": 590
-        },
-        {
-          "name": "Lattice",
-          "symbolName": "grid",
-          "count": 194
-        },
-        {
-          "name": "Sacred geometry",
-          "symbolName": "hexagon",
-          "count": 123
-        },
-        {
-          "name": "Cosmos",
-          "symbolName": "sparkles",
-          "count": 93
-        }
-      ],
-      "specs": {
-        "instrumentCount": 300,
-        "format": "Visual pack",
-        "installedSizeMB": 7
-      }
-    },
-    {
-      "id": "natural-forces",
-      "kind": "visual",
-      "name": "Natural Forces",
-      "tagline": "Water, gravity, fire and light that answer your hands.",
-      "description": "Natural Forces is the physics collection and the largest of the three: six hundred and eighty-two visuals of fluid, gravity, fire, light and material. Water ripples where a note lands and the ripples interfere with each other. Particle storms take a real kick from an attack and then settle at their own rate. Lattices bend under tension and stay bent. Nothing here is a loop reacting to a trigger; these are simulations being disturbed, which is why playing gently and playing hard give genuinely different pictures rather than the same picture at two speeds.",
-      "content": [
-        "682 visuals",
-        "1220+ tagged looks",
-        "Every visual answers velocity, bend and pressure"
-      ],
-      "order": 101,
-      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces-cover.png",
-      "visualAssets": [
-        {
-          "abi": 2,
-          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces.sonaripack.zip",
-          "sha256": "fb609cf1b8d2e6e737d9fa3543e3dfdc38e988e6288bf84a5c2a66afe9d08fbe",
-          "sizeMB": 14
-        }
-      ],
-      "subtitle": "A world with weight, that answers your hands.",
-      "highlights": [
-        {
-          "symbolName": "drop",
-          "title": "Simulated, not animated",
-          "detail": "Fluids, particles and lattices are solved each frame, so a disturbance propagates and decays the way a real one would."
-        },
-        {
-          "symbolName": "bolt",
-          "title": "Hard playing looks hard",
-          "detail": "Attacks deliver force. The difference between a soft phrase and a struck chord is visible without any setting changed."
-        },
-        {
-          "symbolName": "square.grid.3x3",
-          "title": "The biggest of the three",
-          "detail": "682 visuals and 2,536 looks in fourteen megabytes, which is the widest range Sonari offers on screen."
-        }
-      ],
-      "families": [
-        {
-          "name": "Physics and force",
-          "symbolName": "bolt",
-          "count": 472
-        },
-        {
-          "name": "Psychedelic",
-          "symbolName": "camera.filters",
-          "count": 330
-        },
-        {
-          "name": "Reaction diffusion",
-          "symbolName": "circle.hexagongrid",
-          "count": 92
-        },
-        {
-          "name": "Ocean and fluid",
-          "symbolName": "water.waves",
-          "count": 159
-        },
-        {
-          "name": "Fractal and raymarch",
-          "symbolName": "rays",
-          "count": 167
-        }
-      ],
-      "specs": {
-        "instrumentCount": 682,
-        "format": "Visual pack",
-        "installedSizeMB": 14
-      }
+      ]
     },
     {
       "id": "painted-worlds",
       "kind": "visual",
       "name": "Painted Worlds",
-      "tagline": "Art history as a living canvas.",
-      "description": "Painted Worlds treats art history as a set of instruments. Forty-eight styles, from Post-Impressionist swirls through Baroque chiaroscuro to hard-edge minimalism, each rebuilt so that brushwork follows your melody and the palette moves with your key. It is the smallest pack here and the most opinionated: these are not filters laid over a picture, they are the picture being painted while you play, in the logic of the style it belongs to.",
+      "tagline": "Art history, played rather than viewed.",
+      "description": "Sixty-one painting styles rebuilt as instruments. Brushwork follows your melody, palettes move with your key, and every era answers your dynamics in its own logic. These are not filters laid over a picture; the canvas is painted while you play.",
       "content": [
-        "48 visuals",
-        "433+ tagged looks",
-        "Every visual answers velocity, bend and pressure"
+        "61 visuals",
+        "300 looks"
       ],
-      "order": 102,
-      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds-cover.png",
+      "order": 101,
+      "coverURL": null,
       "visualAssets": [
         {
           "abi": 2,
-          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds.sonaripack.zip",
-          "sha256": "08ac95c782743eb8611365d4821551e14349a3695403c436bf237635e587506c",
-          "sizeMB": 4
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/painted-worlds.sonaripack.zip",
+          "sha256": "4915f3a4b3d1a91de4ecf62b163354680279e9250f9c0e0a9cb84b9cca6c2419",
+          "sizeMB": 5
         }
+      ]
+    },
+    {
+      "id": "particles",
+      "kind": "visual",
+      "name": "Particles",
+      "tagline": "Swarms and dust that take a real kick from every attack.",
+      "description": "Forty-six particle systems where an attack delivers force rather than a trigger. Swarms scatter and re-form, dust settles at its own rate, flocks change direction with your phrasing. The clearest visual answer to how hard you played.",
+      "content": [
+        "46 visuals",
+        "161 looks"
       ],
-      "subtitle": "Forty-eight painting styles, played rather than viewed.",
-      "highlights": [
+      "order": 105,
+      "coverURL": null,
+      "visualAssets": [
         {
-          "symbolName": "paintbrush",
-          "title": "Brushwork follows the melody",
-          "detail": "Stroke direction, length and weight come from what you are playing, so the canvas is made by the performance."
-        },
-        {
-          "symbolName": "paintpalette",
-          "title": "Palettes move with your key",
-          "detail": "Change key and the colour relationships shift with it, in the palette logic of the style rather than by hue rotation."
-        },
-        {
-          "symbolName": "square.grid.2x2",
-          "title": "Forty-eight styles, 240 looks",
-          "detail": "Each style ships with several treatments, from restrained to fully expressive."
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/particles.sonaripack.zip",
+          "sha256": "c8b5a27ff3864d57d0148a28f9faadab4a4c78a00d755b8f5d016104f69ae78b",
+          "sizeMB": 5
         }
+      ]
+    },
+    {
+      "id": "psychedelia",
+      "kind": "visual",
+      "name": "Psychedelia",
+      "tagline": "Warp, melt and feedback that follow your hands.",
+      "description": "Ninety-four families of the deliberately unreal: feedback tunnels, colour cycling, melting geometry and warp fields. The loudest visuals Sonari offers and the ones that suit fast, dense playing.",
+      "content": [
+        "94 visuals",
+        "421 looks"
       ],
-      "families": [
+      "order": 108,
+      "coverURL": null,
+      "visualAssets": [
         {
-          "name": "Painting styles",
-          "symbolName": "paintbrush",
-          "count": 220
-        },
-        {
-          "name": "Art movements",
-          "symbolName": "paintpalette",
-          "count": 213
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/psychedelia.sonaripack.zip",
+          "sha256": "e3f741e0101ac52a25de35355ca6f7beb617428aae342fc72ac0cef8b8ef44a0",
+          "sizeMB": 5
         }
+      ]
+    },
+    {
+      "id": "sacred-geometry",
+      "kind": "visual",
+      "name": "Sacred Geometry",
+      "tagline": "Mandalas, tessellations and symmetry that answers your hands.",
+      "description": "Seventy-five families built on symmetry: eye mandalas that open with a chord, tessellations that subdivide as you add notes, kaleidoscopes whose fold count follows your interval. The most ordered visuals Sonari has, and the ones that reward playing something structured.",
+      "content": [
+        "75 visuals",
+        "348 looks"
       ],
-      "specs": {
-        "instrumentCount": 48,
-        "format": "Visual pack",
-        "installedSizeMB": 4
-      }
+      "order": 102,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/sacred-geometry.sonaripack.zip",
+          "sha256": "cb533efc088048dd3690c1a91ab04f25c27792cb000bb656923d9428eb827e93",
+          "sizeMB": 5
+        }
+      ]
+    },
+    {
+      "id": "signals",
+      "kind": "visual",
+      "name": "Signals",
+      "tagline": "Waveforms, scopes and the raw shape of sound.",
+      "description": "Ninety families that draw the signal rather than interpret it: oscilloscopes, spectrum weaves, contour traces and displacement fields. The most direct relationship between what you hear and what you see, and the best choice when you want the visual to be legible rather than beautiful.",
+      "content": [
+        "89 visuals",
+        "297 looks"
+      ],
+      "order": 112,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/signals.sonaripack.zip",
+          "sha256": "36982e62948f5b1a9e9a6540ed9bc6a5deb1ba3b018a2a73e4328ea3b6f14f38",
+          "sizeMB": 5
+        }
+      ]
+    },
+    {
+      "id": "structure",
+      "kind": "visual",
+      "name": "Structure",
+      "tagline": "Geometry that turns what you play into architecture.",
+      "description": "The largest visual pack: a hundred and fifty-four families that read musical structure as form. Ribbons that follow a melodic line, blooms that open on intervals, geometry that builds while a phrase develops. If you want the screen to show the shape of the music, start here.",
+      "content": [
+        "154 visuals",
+        "485 looks"
+      ],
+      "order": 110,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/structure.sonaripack.zip",
+          "sha256": "b73759bc06ad5c51026938e9a879a5dde76b05c0b111a4625088f7728290be50",
+          "sizeMB": 6
+        }
+      ]
+    },
+    {
+      "id": "water-and-air",
+      "kind": "visual",
+      "name": "Water and Air",
+      "tagline": "Fluids that ripple where your notes land.",
+      "description": "Seventy-four families of water, smoke and air, solved each frame rather than animated. Ripples propagate and interfere; play a chord and the disturbances meet. Playing gently and playing hard give different pictures, not the same picture at two speeds.",
+      "content": [
+        "74 visuals",
+        "303 looks"
+      ],
+      "order": 106,
+      "coverURL": null,
+      "visualAssets": [
+        {
+          "abi": 2,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v2/water-and-air.sonaripack.zip",
+          "sha256": "72634a815ef6937b6170fa027d0089df95bf231b261a864172287a43cb4fa05d",
+          "sizeMB": 5
+        }
+      ]
     }
   ]
 }
