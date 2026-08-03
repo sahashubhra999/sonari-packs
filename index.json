@@ -23418,10 +23418,11 @@
       "kind": "visual",
       "name": "Living Notes",
       "tagline": "Visuals that move with your melody.",
-      "description": "Hundreds of musical visuals built around notes themselves: constellations that chart your chords, auroras that breathe with your phrasing, geometry that turns scales into structure. Every visual listens to velocity, bend, and pressure, so what you see is always what you played.",
+      "description": "Living Notes is the collection that listens hardest. Its visuals are built around musical structure rather than around motion: constellations that redraw as a chord changes, auroras that widen with a bend, geometry that turns a scale into architecture. Three hundred visuals, each with several looks, and every one of them takes velocity, pitch bend and pressure as real inputs. If you want the screen to show what you are playing rather than merely react to it, start here.",
       "content": [
         "300 visuals",
-        "1180 looks"
+        "1724+ tagged looks",
+        "Every visual answers velocity, bend and pressure"
       ],
       "order": 101,
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/living-notes-cover.png",
@@ -23432,17 +23433,68 @@
           "sha256": "7f42a5f63d2a8b6a80a7396254c96d451bc36faf2c5e0c302702682c285d9bb6",
           "sizeMB": 7
         }
-      ]
+      ],
+      "subtitle": "Visuals that read what you played, not just that you played.",
+      "highlights": [
+        {
+          "symbolName": "music.note",
+          "title": "Built on notes, not noise",
+          "detail": "Chords, intervals and scale degrees drive the geometry, so the picture changes meaningfully when the music does."
+        },
+        {
+          "symbolName": "hand.raised",
+          "title": "Expression reaches the screen",
+          "detail": "Velocity, bend and pressure are separate inputs here, which is why a held note keeps developing instead of freezing."
+        },
+        {
+          "symbolName": "square.grid.3x3",
+          "title": "Three hundred visuals, 1,180 looks",
+          "detail": "Each visual ships with several ready palettes and settings, so the variety is in the pack rather than in your setup time."
+        }
+      ],
+      "families": [
+        {
+          "name": "Note and chord",
+          "symbolName": "music.note",
+          "count": 724
+        },
+        {
+          "name": "Structural",
+          "symbolName": "square.grid.3x3",
+          "count": 590
+        },
+        {
+          "name": "Lattice",
+          "symbolName": "grid",
+          "count": 194
+        },
+        {
+          "name": "Sacred geometry",
+          "symbolName": "hexagon",
+          "count": 123
+        },
+        {
+          "name": "Cosmos",
+          "symbolName": "sparkles",
+          "count": 93
+        }
+      ],
+      "specs": {
+        "instrumentCount": 300,
+        "format": "Visual pack",
+        "installedSizeMB": 7
+      }
     },
     {
       "id": "natural-forces",
       "kind": "visual",
       "name": "Natural Forces",
       "tagline": "Water, gravity, fire and light that answer your hands.",
-      "description": "The physics collection: fluids that ripple where notes land, marble veined by your harmony, particle storms kicked by every attack, and lattices that bend under tension. Play gently and the world settles; play hard and it erupts.",
+      "description": "Natural Forces is the physics collection and the largest of the three: six hundred and eighty-two visuals of fluid, gravity, fire, light and material. Water ripples where a note lands and the ripples interfere with each other. Particle storms take a real kick from an attack and then settle at their own rate. Lattices bend under tension and stay bent. Nothing here is a loop reacting to a trigger; these are simulations being disturbed, which is why playing gently and playing hard give genuinely different pictures rather than the same picture at two speeds.",
       "content": [
         "682 visuals",
-        "2536 looks"
+        "1220+ tagged looks",
+        "Every visual answers velocity, bend and pressure"
       ],
       "order": 102,
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/natural-forces-cover.png",
@@ -23453,17 +23505,68 @@
           "sha256": "fb609cf1b8d2e6e737d9fa3543e3dfdc38e988e6288bf84a5c2a66afe9d08fbe",
           "sizeMB": 14
         }
-      ]
+      ],
+      "subtitle": "A world with weight, that answers your hands.",
+      "highlights": [
+        {
+          "symbolName": "drop",
+          "title": "Simulated, not animated",
+          "detail": "Fluids, particles and lattices are solved each frame, so a disturbance propagates and decays the way a real one would."
+        },
+        {
+          "symbolName": "bolt",
+          "title": "Hard playing looks hard",
+          "detail": "Attacks deliver force. The difference between a soft phrase and a struck chord is visible without any setting changed."
+        },
+        {
+          "symbolName": "square.grid.3x3",
+          "title": "The biggest of the three",
+          "detail": "682 visuals and 2,536 looks in fourteen megabytes, which is the widest range Sonari offers on screen."
+        }
+      ],
+      "families": [
+        {
+          "name": "Physics and force",
+          "symbolName": "bolt",
+          "count": 472
+        },
+        {
+          "name": "Psychedelic",
+          "symbolName": "camera.filters",
+          "count": 330
+        },
+        {
+          "name": "Reaction diffusion",
+          "symbolName": "circle.hexagongrid",
+          "count": 92
+        },
+        {
+          "name": "Ocean and fluid",
+          "symbolName": "water.waves",
+          "count": 159
+        },
+        {
+          "name": "Fractal and raymarch",
+          "symbolName": "rays",
+          "count": 167
+        }
+      ],
+      "specs": {
+        "instrumentCount": 682,
+        "format": "Visual pack",
+        "installedSizeMB": 14
+      }
     },
     {
       "id": "painted-worlds",
       "kind": "visual",
       "name": "Painted Worlds",
       "tagline": "Art history as a living canvas.",
-      "description": "From Starry Night swirls to hard-edge minimalism: forty-eight painting styles reimagined as instruments. Brushwork follows your melody, palettes shift with your key, and every era answers your dynamics in its own voice.",
+      "description": "Painted Worlds treats art history as a set of instruments. Forty-eight styles, from Post-Impressionist swirls through Baroque chiaroscuro to hard-edge minimalism, each rebuilt so that brushwork follows your melody and the palette moves with your key. It is the smallest pack here and the most opinionated: these are not filters laid over a picture, they are the picture being painted while you play, in the logic of the style it belongs to.",
       "content": [
         "48 visuals",
-        "240 looks"
+        "433+ tagged looks",
+        "Every visual answers velocity, bend and pressure"
       ],
       "order": 103,
       "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/visual-packs-v1/painted-worlds-cover.png",
@@ -23474,7 +23577,42 @@
           "sha256": "08ac95c782743eb8611365d4821551e14349a3695403c436bf237635e587506c",
           "sizeMB": 4
         }
-      ]
+      ],
+      "subtitle": "Forty-eight painting styles, played rather than viewed.",
+      "highlights": [
+        {
+          "symbolName": "paintbrush",
+          "title": "Brushwork follows the melody",
+          "detail": "Stroke direction, length and weight come from what you are playing, so the canvas is made by the performance."
+        },
+        {
+          "symbolName": "paintpalette",
+          "title": "Palettes move with your key",
+          "detail": "Change key and the colour relationships shift with it, in the palette logic of the style rather than by hue rotation."
+        },
+        {
+          "symbolName": "square.grid.2x2",
+          "title": "Forty-eight styles, 240 looks",
+          "detail": "Each style ships with several treatments, from restrained to fully expressive."
+        }
+      ],
+      "families": [
+        {
+          "name": "Painting styles",
+          "symbolName": "paintbrush",
+          "count": 220
+        },
+        {
+          "name": "Art movements",
+          "symbolName": "paintpalette",
+          "count": 213
+        }
+      ],
+      "specs": {
+        "instrumentCount": 48,
+        "format": "Visual pack",
+        "installedSizeMB": 4
+      }
     }
   ]
 }
