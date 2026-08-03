@@ -22610,11 +22610,11 @@
       "id": "synth-voices",
       "kind": "sound",
       "name": "Synth Voices",
-      "tagline": "Seventeen synthesizers, recorded rather than emulated.",
+      "tagline": "Eighteen synthesizers, recorded rather than emulated.",
       "subtitle": "The synth section of General MIDI, sampled from real hardware.",
-      "description": "Most General MIDI banks treat their synth programs as an afterthought: a sawtooth with a filter on it, standing in for eighteen different sounds. These were each sampled properly and separately, one instrument at a time, and then assembled into a single bank. Basses that move, brass stabs with real bite, pads that keep developing while you hold them, and the leads that anything written for a synth part actually needs. Every one was rendered before release and all seventeen sounded.",
+      "description": "Most General MIDI banks treat their synth programs as an afterthought: a sawtooth with a filter on it, standing in for eighteen different sounds. These were each sampled properly and separately, one instrument at a time, and then assembled into a single bank. Basses that move, brass stabs with real bite, pads that keep developing while you hold them, and the leads that anything written for a synth part actually needs. Every one was rendered before release and all eighteen sounded.",
       "content": [
-        "17 sampled synthesizers",
+        "18 sampled synthesizers",
         "Basses, brass, leads and pads",
         "Every preset verified to sound",
         "Public domain"
@@ -22622,9 +22622,9 @@
       "license": "CC0 1.0 Universal. Public domain, no attribution required.",
       "order": 5,
       "soundAsset": {
-        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/synth-voices-v1/synth-voices.sf2",
-        "sha256": "00be127becd12a76428064484198dde44c2769ddc0d32853b27016e3fc52d3df",
-        "sizeMB": 175
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/synth-voices-v2/synth-voices.sf2",
+        "sha256": "1e63862bd46fc82edc5785339d4a418ea4649b9d385013d670d38d8eba21d7f0",
+        "sizeMB": 195
       },
       "highlights": [
         {
@@ -22676,8 +22676,8 @@
         }
       ],
       "specs": {
-        "instrumentCount": 17,
-        "installedSizeMB": 175,
+        "instrumentCount": 18,
+        "installedSizeMB": 195,
         "sampleRateHz": 44100,
         "format": "SoundFont 2",
         "stereo": true
@@ -22862,6 +22862,20 @@
             "sampled",
             "sweep",
             "synth"
+          ]
+        },
+        {
+          "name": "Soundtrack",
+          "caption": "Soundtrack: a wide, moving bed for scoring under.",
+          "symbolName": "sparkles",
+          "category": "cinematic",
+          "program": 97,
+          "tags": [
+            "film",
+            "sampled",
+            "soundtrack",
+            "synth",
+            "texture"
           ]
         },
         {
@@ -23960,7 +23974,37 @@
           "sha256": "379ddb8754d9e9ad8a6e72ab066aab7c9a9882794621a0e8ee9d515259b124c8",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "sparkles",
+          "title": "Chords become constellations",
+          "detail": "Note relationships drive the geometry directly, so the sky redraws when the harmony moves."
+        },
+        {
+          "symbolName": "moon.stars",
+          "title": "Built for held, slow playing",
+          "detail": "Long decays and wide fields suit sustained hands more than fast ones."
+        },
+        {
+          "symbolName": "globe",
+          "title": "The widest visual pack",
+          "detail": "A hundred and four families and 487 looks."
+        }
+      ],
+      "families": [
+        {
+          "name": "Space and orbit",
+          "symbolName": "sparkles",
+          "count": 104
+        }
+      ],
+      "specs": {
+        "instrumentCount": 104,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Stars, orbits and deep space that answer your playing."
     },
     {
       "id": "fractal-depths",
@@ -23981,7 +24025,37 @@
           "sha256": "7f9a25b38b135d0f031da84d5a106b106b2012a8d90c30b668cf1053cf2af226",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "rays",
+          "title": "Entered rather than watched",
+          "detail": "Raymarched fields you move through, where pitch drives depth."
+        },
+        {
+          "symbolName": "square.stack.3d.down.forward",
+          "title": "Detail follows dynamics",
+          "detail": "Play harder and the structure resolves further in."
+        },
+        {
+          "symbolName": "circle.hexagongrid",
+          "title": "Seventy-six families, 333 looks",
+          "detail": "Mandelbulbs, signed distance fields, iterated systems."
+        }
+      ],
+      "families": [
+        {
+          "name": "Fractal and raymarch",
+          "symbolName": "rays",
+          "count": 76
+        }
+      ],
+      "specs": {
+        "instrumentCount": 76,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Infinite structure, entered rather than watched."
     },
     {
       "id": "lattice-and-weave",
@@ -24002,7 +24076,37 @@
           "sha256": "775cc7524c095fdd98bbcdc021d34adae10f996acc06a9d6310335159f5921f8",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "grid",
+          "title": "Structures under load",
+          "detail": "Lattices and cloth deform when you play and stay deformed until you let go."
+        },
+        {
+          "symbolName": "hand.raised",
+          "title": "A held chord holds it open",
+          "detail": "The material recovers at its own rate, so sustain is visible."
+        },
+        {
+          "symbolName": "square.grid.3x3",
+          "title": "Eighty-four families, 344 looks",
+          "detail": "Mesh, cloth, rods and weaves."
+        }
+      ],
+      "families": [
+        {
+          "name": "Lattice and cloth",
+          "symbolName": "grid",
+          "count": 84
+        }
+      ],
+      "specs": {
+        "instrumentCount": 84,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Structures under tension that bend when you play."
     },
     {
       "id": "living-growth",
@@ -24023,7 +24127,37 @@
           "sha256": "246871b2546109ce5b2a9886e94ee472a443c57b18297477f65c2474e5047760",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "leaf",
+          "title": "Alive whether or not you play",
+          "detail": "Reaction diffusion and cellular systems keep developing on their own; you disturb them rather than trigger them."
+        },
+        {
+          "symbolName": "waveform.path",
+          "title": "Hold a note and it keeps going",
+          "detail": "The pattern does not reset between notes, so a long phrase builds on what came before."
+        },
+        {
+          "symbolName": "circle.hexagongrid",
+          "title": "Forty-six families, 183 looks",
+          "detail": "Growth, decay and self-organisation."
+        }
+      ],
+      "families": [
+        {
+          "name": "Growth systems",
+          "symbolName": "leaf",
+          "count": 46
+        }
+      ],
+      "specs": {
+        "instrumentCount": 46,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Systems that grow while you hold a note."
     },
     {
       "id": "living-notes",
@@ -24044,7 +24178,37 @@
           "sha256": "7554706b48b2c4ab70ed7c9e473c1c6d3d71ce1081ea19e5e4312eb1aaec67e3",
           "sizeMB": 6
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "music.note",
+          "title": "Built on notes themselves",
+          "detail": "Chord shapes, scale degrees and voice leading drive the picture directly."
+        },
+        {
+          "symbolName": "hand.raised",
+          "title": "Expression reaches the screen",
+          "detail": "Velocity, bend and pressure are separate inputs, so a held note keeps developing."
+        },
+        {
+          "symbolName": "square.grid.3x3",
+          "title": "A hundred and twenty-seven families",
+          "detail": "294 looks across them."
+        }
+      ],
+      "families": [
+        {
+          "name": "Note and chord",
+          "symbolName": "music.note",
+          "count": 127
+        }
+      ],
+      "specs": {
+        "instrumentCount": 127,
+        "format": "Visual pack",
+        "installedSizeMB": 6
+      },
+      "subtitle": "Visuals that show what you played, not just that you played."
     },
     {
       "id": "painted-worlds",
@@ -24065,7 +24229,37 @@
           "sha256": "4915f3a4b3d1a91de4ecf62b163354680279e9250f9c0e0a9cb84b9cca6c2419",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "paintbrush",
+          "title": "Brushwork follows the melody",
+          "detail": "Stroke direction, length and weight come from what you are playing, so the canvas is made by the performance."
+        },
+        {
+          "symbolName": "paintpalette",
+          "title": "Palettes move with your key",
+          "detail": "Change key and the colour relationships shift in the logic of the style rather than by hue rotation."
+        },
+        {
+          "symbolName": "square.grid.2x2",
+          "title": "Sixty-one styles, 300 looks",
+          "detail": "From Post-Impressionist swirls to hard-edge minimalism, each with several treatments."
+        }
+      ],
+      "families": [
+        {
+          "name": "Painting styles",
+          "symbolName": "paintbrush",
+          "count": 61
+        }
+      ],
+      "specs": {
+        "instrumentCount": 61,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Art history, played rather than viewed."
     },
     {
       "id": "particles",
@@ -24086,7 +24280,37 @@
           "sha256": "c8b5a27ff3864d57d0148a28f9faadab4a4c78a00d755b8f5d016104f69ae78b",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "aqi.medium",
+          "title": "Attacks deliver force",
+          "detail": "A hard note kicks the swarm; a soft one nudges it. The difference is visible without changing a setting."
+        },
+        {
+          "symbolName": "wind",
+          "title": "Settling takes time",
+          "detail": "Systems recover at their own rate, so the picture carries a memory of how you played."
+        },
+        {
+          "symbolName": "circle.grid.3x3",
+          "title": "Forty-six families, 161 looks",
+          "detail": "Swarms, dust, flocks and debris."
+        }
+      ],
+      "families": [
+        {
+          "name": "Particle systems",
+          "symbolName": "aqi.medium",
+          "count": 46
+        }
+      ],
+      "specs": {
+        "instrumentCount": 46,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Swarms and dust that take a real kick from every attack."
     },
     {
       "id": "psychedelia",
@@ -24107,7 +24331,37 @@
           "sha256": "e3f741e0101ac52a25de35355ca6f7beb617428aae342fc72ac0cef8b8ef44a0",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "camera.filters",
+          "title": "Deliberately unreal",
+          "detail": "Feedback tunnels, colour cycling, melting geometry and warp fields."
+        },
+        {
+          "symbolName": "bolt",
+          "title": "Suits fast, dense playing",
+          "detail": "The more you give it, the further it goes."
+        },
+        {
+          "symbolName": "sparkles",
+          "title": "Ninety-four families, 421 looks",
+          "detail": "The loudest visuals Sonari offers."
+        }
+      ],
+      "families": [
+        {
+          "name": "Warp and feedback",
+          "symbolName": "camera.filters",
+          "count": 94
+        }
+      ],
+      "specs": {
+        "instrumentCount": 94,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Warp, melt and feedback that follow your hands."
     },
     {
       "id": "sacred-geometry",
@@ -24128,7 +24382,37 @@
           "sha256": "cb533efc088048dd3690c1a91ab04f25c27792cb000bb656923d9428eb827e93",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "hexagon",
+          "title": "Symmetry that answers a chord",
+          "detail": "Fold counts and subdivisions follow your intervals, so the figure reorganises when the harmony does."
+        },
+        {
+          "symbolName": "circle.hexagongrid",
+          "title": "The most ordered visuals here",
+          "detail": "Seventy-five families built on rule rather than accident. They reward playing something structured."
+        },
+        {
+          "symbolName": "sparkles",
+          "title": "348 looks",
+          "detail": "Each family ships with several palettes and densities."
+        }
+      ],
+      "families": [
+        {
+          "name": "Mandalas and tessellation",
+          "symbolName": "hexagon",
+          "count": 75
+        }
+      ],
+      "specs": {
+        "instrumentCount": 75,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Mandalas, tessellations and symmetry that answers your hands."
     },
     {
       "id": "signals",
@@ -24149,7 +24433,37 @@
           "sha256": "36982e62948f5b1a9e9a6540ed9bc6a5deb1ba3b018a2a73e4328ea3b6f14f38",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "waveform",
+          "title": "Draws the signal itself",
+          "detail": "Oscilloscopes, spectrum weaves and contour traces rather than interpretations of them."
+        },
+        {
+          "symbolName": "eye",
+          "title": "Legible before beautiful",
+          "detail": "The most direct relationship between what you hear and what you see."
+        },
+        {
+          "symbolName": "square.grid.3x3",
+          "title": "Eighty-nine families, 297 looks",
+          "detail": "Scopes, glyphs and displacement fields."
+        }
+      ],
+      "families": [
+        {
+          "name": "Scopes and signals",
+          "symbolName": "waveform",
+          "count": 89
+        }
+      ],
+      "specs": {
+        "instrumentCount": 89,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Waveforms, scopes and the raw shape of sound."
     },
     {
       "id": "structure",
@@ -24170,7 +24484,37 @@
           "sha256": "b73759bc06ad5c51026938e9a879a5dde76b05c0b111a4625088f7728290be50",
           "sizeMB": 6
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "building.columns",
+          "title": "Music as architecture",
+          "detail": "Ribbons follow a melodic line; blooms open on intervals; geometry builds as a phrase develops."
+        },
+        {
+          "symbolName": "square.grid.3x3.fill",
+          "title": "The largest visual pack",
+          "detail": "A hundred and fifty-four families and 485 looks."
+        },
+        {
+          "symbolName": "music.note",
+          "title": "Shows the shape of the music",
+          "detail": "If you want the screen to read structure rather than energy, start here."
+        }
+      ],
+      "families": [
+        {
+          "name": "Geometry and form",
+          "symbolName": "building.columns",
+          "count": 154
+        }
+      ],
+      "specs": {
+        "instrumentCount": 154,
+        "format": "Visual pack",
+        "installedSizeMB": 6
+      },
+      "subtitle": "Geometry that turns what you play into architecture."
     },
     {
       "id": "water-and-air",
@@ -24191,7 +24535,37 @@
           "sha256": "72634a815ef6937b6170fa027d0089df95bf231b261a864172287a43cb4fa05d",
           "sizeMB": 5
         }
-      ]
+      ],
+      "highlights": [
+        {
+          "symbolName": "drop",
+          "title": "Solved, not animated",
+          "detail": "Ripples propagate and interfere. Play a chord and the disturbances meet each other."
+        },
+        {
+          "symbolName": "water.waves",
+          "title": "Gentle and hard look different",
+          "detail": "Not the same picture at two speeds: the fluid responds to force."
+        },
+        {
+          "symbolName": "wind",
+          "title": "Seventy-four families, 303 looks",
+          "detail": "Water, smoke, cloud and air."
+        }
+      ],
+      "families": [
+        {
+          "name": "Fluid and air",
+          "symbolName": "water.waves",
+          "count": 74
+        }
+      ],
+      "specs": {
+        "instrumentCount": 74,
+        "format": "Visual pack",
+        "installedSizeMB": 5
+      },
+      "subtitle": "Fluids that ripple where your notes land."
     }
   ]
 }
