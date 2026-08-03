@@ -23179,75 +23179,238 @@
       "id": "salamander-grand",
       "kind": "sound",
       "name": "Concert Grand Piano",
-      "tagline": "One world-class grand piano, sampled note by note at sixteen dynamic layers.",
-      "description": "One world-class grand piano, sampled note by note at sixteen dynamic layers.",
-      "content": [],
+      "tagline": "One piano, sampled until it stopped being a sample.",
+      "description": "Most sampled pianos give you three or four levels of loudness and cross-fade between them, which is why they go glassy when you lean in. This one was captured at sixteen, note by note, so the distance between a whisper and a shout is a continuum rather than four steps. In the air that matters more than it does at a keyboard: your hand's height is a smooth control, and this is the one instrument in the library with enough recorded detail to answer it smoothly back.",
+      "content": [
+        "A single world-class grand",
+        "Sixteen dynamic layers per note",
+        "Recorded note by note",
+        "The most detailed instrument Sonari offers"
+      ],
       "order": 6,
       "license": "Salamander Grand Piano by Alexander Holm, CC-BY 3.0.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/salamander-grand-v1/salamander-grand.sf2",
         "sha256": "712d0e681efbe5203a8014e9b3e84168f1908c82f2f6fb13bd2c77d6d72c70b7",
         "sizeMB": 1208
+      },
+      "subtitle": "Sixteen dynamic layers, and a hand that can reach all of them.",
+      "highlights": [
+        {
+          "symbolName": "hand.raised",
+          "title": "Sixteen layers, not four",
+          "detail": "Loudness is recorded, not faked with a filter, so leaning in changes the tone and not just the volume."
+        },
+        {
+          "symbolName": "pianokeys",
+          "title": "One instrument, done completely",
+          "detail": "Every note captured separately. Nothing here is a neighbouring key played faster or slower."
+        },
+        {
+          "symbolName": "externaldrive",
+          "title": "Honest about its size",
+          "detail": "It is the largest download on the shelf by a wide margin, and it is the only one that needs to be."
+        }
+      ],
+      "specs": {
+        "velocityLayers": 16,
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "instrumentCount": 1
+      },
+      "attribution": {
+        "spdx": "CC-BY-3.0",
+        "summary": "Creative Commons Attribution 3.0.",
+        "workTitle": "Salamander Grand Piano",
+        "author": "Alexander Holm",
+        "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
+        "modified": true,
+        "modificationNote": "Converted to SoundFont for Sonari's sampler."
       }
     },
     {
       "id": "spanish-guitar",
       "kind": "sound",
       "name": "Spanish Guitar",
-      "tagline": "A real classical guitar, close enough to hear the nails.",
-      "description": "A real classical guitar, close enough to hear the nails.",
-      "content": [],
+      "tagline": "Nylon strings, close enough to hear the nails.",
+      "description": "A real classical guitar, miked close enough that you get the fingertip on the string before the note arrives. That attack is what makes a plucked instrument legible in the air: a hand crossing a note boundary produces a real pluck rather than a fade, so playing this with gestures sounds like playing rather than like sweeping a synthesiser. It suits slow lines and it suits being hit hard.",
+      "content": [
+        "A real nylon-string guitar",
+        "Close-recorded, with the fingers left in",
+        "Public domain",
+        "Nineteen megabytes"
+      ],
       "order": 7,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/spanish-guitar-v1/spanish-guitar.sf2",
         "sha256": "0d4c08ea8c1c8924b3829084b0c8778f6d6b906f331e44fde51bc159f76b03b9",
         "sizeMB": 19
+      },
+      "subtitle": "A classical guitar recorded at conversation distance.",
+      "highlights": [
+        {
+          "symbolName": "guitars",
+          "title": "The fingers are in the recording",
+          "detail": "String noise and nail attack were kept, which is what separates a recorded guitar from a synthesised one."
+        },
+        {
+          "symbolName": "hand.point.up.left",
+          "title": "Made for plucking in the air",
+          "detail": "A crisp attack means every note lands, and every note boundary a hand crosses is audible as a new pluck."
+        }
+      ],
+      "specs": {
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "instrumentCount": 1
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "workTitle": "FreePats Spanish classical guitar",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
       }
     },
     {
       "id": "hang-drum",
       "kind": "sound",
       "name": "Hang Drum",
-      "tagline": "A real handpan: struck air, meditative ring, made for slow hands.",
-      "description": "A real handpan: struck air, meditative ring, made for slow hands.",
-      "content": [],
+      "tagline": "Struck air, and a very long ring.",
+      "description": "The handpan is the one acoustic instrument that seems to have been designed for playing without touching anything. Its notes bloom rather than start, it holds for seconds, and it is tuned so that almost nothing you play is wrong. Slow hands sound deliberate on it and fast hands sound like rain. If you are showing somebody what playing in the air is, do it on this.",
+      "content": [
+        "A real handpan in D minor",
+        "Long, blooming sustain",
+        "Public domain",
+        "Twenty-six megabytes"
+      ],
       "order": 8,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/hang-drum-v1/hang-drum.sf2",
         "sha256": "6148308e484754c6a5468b344e46ed7b118ae73e12cb20231e2425e2beeef7f5",
         "sizeMB": 26
+      },
+      "subtitle": "The most gesture-native instrument in the library.",
+      "highlights": [
+        {
+          "symbolName": "circle.hexagonpath",
+          "title": "Nothing you play is wrong",
+          "detail": "Tuned so its notes agree with each other, which makes it forgiving in a way no keyboard instrument is."
+        },
+        {
+          "symbolName": "waveform.path",
+          "title": "Notes that bloom",
+          "detail": "A soft attack and a long ring, so slow hand movement reads as musical rather than as hesitation."
+        }
+      ],
+      "specs": {
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "instrumentCount": 1
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "workTitle": "FreePats Hang",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
       }
     },
     {
       "id": "glass-voices",
       "kind": "sound",
       "name": "Glass",
-      "tagline": "Real played glass: pure, airy, and spatial.",
-      "description": "Real played glass: pure, airy, and spatial.",
-      "content": [],
+      "tagline": "Played glass: pure, airy, and very still.",
+      "description": "Glass instruments are almost pure tone with almost no attack, which makes them the opposite of the guitar: nothing here is percussive, and everything drifts. That turns a hand's position into something closer to a fader than a key, and it is the reason this pack is worth having even though it holds one instrument. Play it slowly, high up, with plenty of space, and it does not sound like a sample library at all.",
+      "content": [
+        "Real played glass",
+        "Almost no attack, all tone",
+        "Public domain",
+        "Twenty-six megabytes"
+      ],
       "order": 9,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/glass-voices-v1/glass-voices.sf2",
         "sha256": "c86204d29aa2cb660b00d074468dbfc642cd9b93bdfe639555ba008a6c283968",
         "sizeMB": 26
+      },
+      "subtitle": "The quietest thing on the shelf, and the most spatial.",
+      "highlights": [
+        {
+          "symbolName": "aqi.medium",
+          "title": "Tone without a strike",
+          "detail": "Hardly any attack, so a hand moving through it glides rather than triggers."
+        },
+        {
+          "symbolName": "cloud.sun",
+          "title": "Room to sit in",
+          "detail": "Spatial and quiet, which makes it the natural bed under anything else you are playing."
+        }
+      ],
+      "specs": {
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "instrumentCount": 1
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "workTitle": "FreePats Glass",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
       }
     },
     {
       "id": "kalimba-real",
       "kind": "sound",
       "name": "Kalimba",
-      "tagline": "A real kalimba's recorded tines.",
-      "description": "A real kalimba's recorded tines.",
-      "content": [],
+      "tagline": "Thumb-plucked metal, with the wood behind it.",
+      "description": "A real kalimba: metal tines over a wooden box, so every note has a bright ping and a low woody knock underneath it. It is small in every sense, which is the point. Ten megabytes, one instrument, and a sound so recognisable that a few notes of it establish a whole piece. Like the handpan it is tuned to be forgiving, so it rewards playing quickly without planning.",
+      "content": [
+        "A real kalimba",
+        "Metal tines over a wooden body",
+        "Public domain",
+        "Ten megabytes"
+      ],
       "order": 10,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/kalimba-real-v1/kalimba-real.sf2",
         "sha256": "8232588e69ca4554f52bd9336099c45d2ca18bd8bc01b2efde8016bfee2db978",
         "sizeMB": 10
+      },
+      "subtitle": "Small, bright, and impossible to play badly.",
+      "highlights": [
+        {
+          "symbolName": "hand.point.up.left",
+          "title": "Bright on top, wooden underneath",
+          "detail": "Two sounds in every note: the tine's ping and the body's knock. Both were recorded."
+        },
+        {
+          "symbolName": "arrow.down.circle",
+          "title": "Ten megabytes",
+          "detail": "The smallest download on the shelf, and complete."
+        }
+      ],
+      "specs": {
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "instrumentCount": 1
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "workTitle": "FreePats Kalimba",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
       }
     },
     {
