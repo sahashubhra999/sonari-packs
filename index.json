@@ -22607,6 +22607,534 @@
       ]
     },
     {
+      "id": "synth-voices",
+      "kind": "sound",
+      "name": "Synth Voices",
+      "tagline": "Seventeen synthesizers, recorded rather than emulated.",
+      "subtitle": "The synth section of General MIDI, sampled from real hardware.",
+      "description": "Most General MIDI banks treat their synth programs as an afterthought: a sawtooth with a filter on it, standing in for eighteen different sounds. These were each sampled properly and separately, one instrument at a time, and then assembled into a single bank. Basses that move, brass stabs with real bite, pads that keep developing while you hold them, and the leads that anything written for a synth part actually needs. Every one was rendered before release and all seventeen sounded.",
+      "content": [
+        "17 sampled synthesizers",
+        "Basses, brass, leads and pads",
+        "Every preset verified to sound",
+        "Public domain"
+      ],
+      "license": "CC0 1.0 Universal. Public domain, no attribution required.",
+      "order": 5,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/synth-voices-v1/synth-voices.sf2",
+        "sha256": "00be127becd12a76428064484198dde44c2769ddc0d32853b27016e3fc52d3df",
+        "sizeMB": 175
+      },
+      "highlights": [
+        {
+          "symbolName": "waveform.path",
+          "title": "Sampled, not approximated",
+          "detail": "Each of the seventeen was recorded as its own instrument rather than filtered out of one waveform."
+        },
+        {
+          "symbolName": "cloud.sun",
+          "title": "Pads that keep moving",
+          "detail": "Bowed, choir and sweep pads that develop while a note is held, which is what makes them work under slow hands."
+        },
+        {
+          "symbolName": "checkmark.seal",
+          "title": "Public domain",
+          "detail": "Assembled from CC0 instruments. Nothing to credit, nothing to renew."
+        }
+      ],
+      "families": [
+        {
+          "name": "Strings and Plucks",
+          "symbolName": "guitars",
+          "count": 1
+        },
+        {
+          "name": "Bass",
+          "symbolName": "waveform.path",
+          "count": 3
+        },
+        {
+          "name": "Brass",
+          "symbolName": "megaphone",
+          "count": 2
+        },
+        {
+          "name": "Synth Leads",
+          "symbolName": "chart.line.uptrend.xyaxis",
+          "count": 4
+        },
+        {
+          "name": "Pads and Ambient",
+          "symbolName": "cloud.sun",
+          "count": 4
+        },
+        {
+          "name": "Cinematic and Effects",
+          "symbolName": "sparkles",
+          "count": 3
+        }
+      ],
+      "specs": {
+        "instrumentCount": 17,
+        "installedSizeMB": 175,
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0. No attribution required.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": true,
+        "modificationNote": "Assembled by Sonari's pack builder from separate public domain instruments."
+      },
+      "voices": [
+        {
+          "name": "Synth Bass 1",
+          "caption": "A synth bass with a filter you can feel closing.",
+          "symbolName": "waveform.path",
+          "category": "bass",
+          "program": 38,
+          "tags": [
+            "bass",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Synth Bass 2",
+          "caption": "The rounder synth bass, deep and unhurried.",
+          "symbolName": "waveform.path",
+          "category": "bass",
+          "program": 39,
+          "tags": [
+            "bass",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Synth Strings",
+          "caption": "A synth string ensemble, wide and analog.",
+          "symbolName": "music.quarternote.3",
+          "category": "plucksStrings",
+          "program": 50,
+          "tags": [
+            "ensemble",
+            "orchestra",
+            "sampled",
+            "strings",
+            "synth"
+          ]
+        },
+        {
+          "name": "Synth Brass 1",
+          "caption": "A synth brass stab, fast and bright.",
+          "symbolName": "megaphone",
+          "category": "brass",
+          "program": 62,
+          "tags": [
+            "brass",
+            "orchestra",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Synth Brass 2",
+          "caption": "The second synth brass, wider and slower to arrive.",
+          "symbolName": "megaphone",
+          "category": "brass",
+          "program": 63,
+          "tags": [
+            "brass",
+            "orchestra",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Square Lead",
+          "caption": "A square lead, hollow and retro and instantly recognisable.",
+          "symbolName": "chart.line.uptrend.xyaxis",
+          "category": "synths",
+          "program": 80,
+          "tags": [
+            "lead",
+            "sampled",
+            "square",
+            "synth"
+          ]
+        },
+        {
+          "name": "Calliope Lead",
+          "caption": "Calliope: a steam whistle lead, round and circus bright.",
+          "symbolName": "chart.line.uptrend.xyaxis",
+          "category": "synths",
+          "program": 82,
+          "tags": [
+            "calliope",
+            "lead",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Fifths Lead",
+          "caption": "Fifths lead: every note doubled a fifth up, wide and hollow.",
+          "symbolName": "chart.line.uptrend.xyaxis",
+          "category": "synths",
+          "program": 86,
+          "tags": [
+            "fifths",
+            "lead",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Bass and Lead",
+          "caption": "Bass and lead together, thick and monophonic.",
+          "symbolName": "chart.line.uptrend.xyaxis",
+          "category": "synths",
+          "program": 87,
+          "tags": [
+            "and",
+            "bass",
+            "lead",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "New Age Pad",
+          "caption": "A new age pad, wide and slow and unhurried.",
+          "symbolName": "cloud.sun",
+          "category": "padsAmbient",
+          "program": 88,
+          "tags": [
+            "age",
+            "ambient",
+            "new",
+            "pad",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Choir Pad",
+          "caption": "A choir pad, voices without words, held indefinitely.",
+          "symbolName": "cloud.sun",
+          "category": "padsAmbient",
+          "program": 91,
+          "tags": [
+            "ambient",
+            "choir",
+            "pad",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Bowed Pad",
+          "caption": "A bowed glass pad, cold and shimmering.",
+          "symbolName": "cloud.sun",
+          "category": "padsAmbient",
+          "program": 92,
+          "tags": [
+            "ambient",
+            "bowed",
+            "pad",
+            "sampled",
+            "synth"
+          ]
+        },
+        {
+          "name": "Sweep Pad",
+          "caption": "A sweep pad, whose filter moves the whole time you hold it.",
+          "symbolName": "cloud.sun",
+          "category": "padsAmbient",
+          "program": 95,
+          "tags": [
+            "ambient",
+            "pad",
+            "sampled",
+            "sweep",
+            "synth"
+          ]
+        },
+        {
+          "name": "Crystal",
+          "caption": "Crystal, bright and bell-like and glassy.",
+          "symbolName": "sparkles",
+          "category": "cinematic",
+          "program": 98,
+          "tags": [
+            "crystal",
+            "film",
+            "sampled",
+            "synth",
+            "texture"
+          ]
+        },
+        {
+          "name": "Goblins",
+          "caption": "Goblins, a synth texture that never sits still.",
+          "symbolName": "sparkles",
+          "category": "cinematic",
+          "program": 101,
+          "tags": [
+            "film",
+            "goblins",
+            "sampled",
+            "synth",
+            "texture"
+          ]
+        },
+        {
+          "name": "Sci-Fi",
+          "caption": "Sci-fi: a texture from a film that has not been made yet.",
+          "symbolName": "sparkles",
+          "category": "cinematic",
+          "program": 103,
+          "tags": [
+            "film",
+            "sampled",
+            "sci-fi",
+            "synth",
+            "texture"
+          ]
+        },
+        {
+          "name": "Lately Bass",
+          "caption": "A synth bass with a filter you can feel closing. An alternate voicing of it.",
+          "symbolName": "waveform.path",
+          "category": "bass",
+          "program": 38,
+          "tags": [
+            "bass",
+            "lately",
+            "sampled"
+          ],
+          "bank": 1
+        }
+      ]
+    },
+    {
+      "id": "struck-and-blown",
+      "kind": "sound",
+      "name": "Struck and Blown",
+      "tagline": "Ten real instruments, hit or breathed into.",
+      "subtitle": "Pianos, bells, timpani, and things you blow.",
+      "description": "A collection with nothing synthetic in it: two electric pianos, an old upright with the room around it, tubular bells, a finger bass, orchestral timpani, an ocarina, and a spread of world percussion. It is the pack for when you want something that was physically struck or blown rather than generated, and it covers the attacks that are hardest to fake. All eleven presets were rendered before release and all eleven sounded.",
+      "content": [
+        "10 recorded acoustic instruments",
+        "Pianos, bells, timpani, percussion",
+        "Every preset verified to sound",
+        "Public domain"
+      ],
+      "license": "CC0 1.0 Universal. Public domain, no attribution required.",
+      "order": 6,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/struck-and-blown-v1/struck-and-blown.sf2",
+        "sha256": "caa21085a9fe4e31c91e70f2da40ffbf6f3dc0db76c50e639a71194664a31cdc",
+        "sizeMB": 214
+      },
+      "highlights": [
+        {
+          "symbolName": "pianokeys",
+          "title": "Nothing synthetic",
+          "detail": "Every instrument here was recorded being played, including the noise the player makes."
+        },
+        {
+          "symbolName": "circle.grid.3x3",
+          "title": "The attacks that matter",
+          "detail": "Struck and blown instruments have the sharpest onsets, which is what makes a note boundary audible in the air."
+        },
+        {
+          "symbolName": "checkmark.seal",
+          "title": "Public domain",
+          "detail": "Assembled from CC0 instruments recorded by the FreePats project."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 5
+        },
+        {
+          "name": "Bass",
+          "symbolName": "waveform.path",
+          "count": 1
+        },
+        {
+          "name": "Winds and Reeds",
+          "symbolName": "wind",
+          "count": 1
+        },
+        {
+          "name": "Bells and Mallets",
+          "symbolName": "bell",
+          "count": 2
+        },
+        {
+          "name": "Percussion",
+          "symbolName": "circle.grid.3x3",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 10,
+        "installedSizeMB": 214,
+        "sampleRateHz": 44100,
+        "format": "SoundFont 2",
+        "stereo": true
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0. No attribution required.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": true,
+        "modificationNote": "Assembled by Sonari's pack builder from separate public domain instruments."
+      },
+      "voices": [
+        {
+          "name": "Old Upright",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "keys",
+            "old",
+            "piano",
+            "sampled",
+            "upright"
+          ]
+        },
+        {
+          "name": "FM Electric Piano",
+          "caption": "A tine electric piano, soft under the fingers and bell-like above.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 4,
+          "tags": [
+            "electric",
+            "keys",
+            "piano",
+            "sampled"
+          ]
+        },
+        {
+          "name": "FM Electric Piano 2",
+          "caption": "The same tines run hot, with the bark of a driven amp.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 5,
+          "tags": [
+            "electric",
+            "keys",
+            "piano",
+            "sampled"
+          ]
+        },
+        {
+          "name": "FM Electric Piano 3",
+          "caption": "A harpsichord's plucked quill, with no dynamics at all.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 6,
+          "tags": [
+            "electric",
+            "keys",
+            "piano",
+            "sampled"
+          ]
+        },
+        {
+          "name": "FM Electric Piano 4",
+          "caption": "A clavinet's tight, funky pluck, made for rhythm rather than chords.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 7,
+          "tags": [
+            "electric",
+            "keys",
+            "piano",
+            "sampled"
+          ]
+        },
+        {
+          "name": "Tubular Bells",
+          "caption": "Tubular bells, the orchestra's church tower.",
+          "symbolName": "bell",
+          "category": "bellsMallets",
+          "program": 14,
+          "tags": [
+            "bell",
+            "bells",
+            "chromatic",
+            "mallet",
+            "sampled",
+            "tubular"
+          ]
+        },
+        {
+          "name": "Finger Bass",
+          "caption": "Fingered electric bass, round and even.",
+          "symbolName": "waveform.path",
+          "category": "bass",
+          "program": 33,
+          "tags": [
+            "bass",
+            "finger",
+            "sampled"
+          ]
+        },
+        {
+          "name": "Timpani",
+          "caption": "Timpani: tuned drums with the whole room in the tail.",
+          "symbolName": "oval.bottomhalf.filled",
+          "category": "bellsMallets",
+          "program": 47,
+          "tags": [
+            "orchestra",
+            "sampled",
+            "timpani"
+          ]
+        },
+        {
+          "name": "Ocarina",
+          "caption": "Ocarina, round and hollow and slightly hooting.",
+          "symbolName": "wind",
+          "category": "windsBreath",
+          "program": 79,
+          "tags": [
+            "breath",
+            "flute",
+            "ocarina",
+            "pipe",
+            "sampled"
+          ]
+        },
+        {
+          "name": "World Percussion",
+          "caption": "Tinkle bell, small struck metal.",
+          "symbolName": "circle.grid.3x3",
+          "category": "percussion",
+          "program": 112,
+          "tags": [
+            "drum",
+            "percussion",
+            "sampled",
+            "world"
+          ]
+        }
+      ]
+    },
+    {
       "id": "studio-extras",
       "kind": "sound",
       "name": "Studio Extras",
@@ -22620,7 +23148,7 @@
         "MIT licensed"
       ],
       "license": "MIT license.",
-      "order": 5,
+      "order": 7,
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/studio-extras-v1/studio-extras.sf2",
         "sha256": "aadb5597fb95ea5f7d336999e3c68ad32aa6357027aed7d4d9ff0ac75f2988e6",
@@ -23187,7 +23715,7 @@
         "Recorded note by note",
         "The most detailed instrument Sonari offers"
       ],
-      "order": 6,
+      "order": 8,
       "license": "Salamander Grand Piano by Alexander Holm, CC-BY 3.0.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/salamander-grand-v1/salamander-grand.sf2",
@@ -23241,7 +23769,7 @@
         "Public domain",
         "Nineteen megabytes"
       ],
-      "order": 7,
+      "order": 9,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/spanish-guitar-v1/spanish-guitar.sf2",
@@ -23287,7 +23815,7 @@
         "Public domain",
         "Twenty-six megabytes"
       ],
-      "order": 8,
+      "order": 10,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/hang-drum-v1/hang-drum.sf2",
@@ -23333,7 +23861,7 @@
         "Public domain",
         "Twenty-six megabytes"
       ],
-      "order": 9,
+      "order": 11,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/glass-voices-v1/glass-voices.sf2",
@@ -23379,7 +23907,7 @@
         "Public domain",
         "Ten megabytes"
       ],
-      "order": 10,
+      "order": 12,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/kalimba-real-v1/kalimba-real.sf2",
