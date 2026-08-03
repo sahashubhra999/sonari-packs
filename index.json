@@ -23176,6 +23176,413 @@
       ]
     },
     {
+      "id": "xylophone",
+      "kind": "sound",
+      "name": "Xylophone",
+      "tagline": "Hard mallets on rosewood, and nothing else.",
+      "subtitle": "Dry, bright, and completely unforgiving.",
+      "description": "A real xylophone struck with medium mallets. There is no sustain to hide behind here: every note is an attack and then silence, so timing is the whole performance. That makes it the sharpest test of hand control in the library, and the most satisfying when it lands.",
+      "content": [
+        "One recorded instrument",
+        "Public domain",
+        "Verified to sound"
+      ],
+      "license": "CC0 1.0 Universal. Public domain.",
+      "order": 6,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/xylophone-v1/xylophone.sf2",
+        "sha256": "d831fab19aa2de90ce82dc91126ab5b51abb7be4df2b53648de40a715a9af51a",
+        "sizeMB": 4
+      },
+      "highlights": [
+        {
+          "symbolName": "hand.tap",
+          "title": "Timing is everything",
+          "detail": "No sustain at all, so a note is exactly as long as you meant it and not a moment more."
+        },
+        {
+          "symbolName": "waveform",
+          "title": "Recorded, not modelled",
+          "detail": "Real bars struck with real mallets, including the knock of the mallet itself."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 1,
+        "installedSizeMB": 4,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "sampleRateHz": 44100
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
+      },
+      "voices": [
+        {
+          "name": "Xylophone",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "keys",
+            "piano",
+            "sampled",
+            "xylophone"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "steel-guitar",
+      "kind": "sound",
+      "name": "Steel-String Guitar",
+      "tagline": "Bronze strings, and the room they were played in.",
+      "subtitle": "The folk guitar, recorded honestly.",
+      "description": "A steel-string acoustic with the brightness those strings are known for and the body resonance underneath. Where the nylon guitar is intimate, this one carries: it cuts through a mix without being asked twice, and it takes hard playing without turning harsh.",
+      "content": [
+        "One recorded instrument",
+        "Public domain",
+        "Verified to sound"
+      ],
+      "license": "CC0 1.0 Universal. Public domain.",
+      "order": 7,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/steel-guitar-v1/steel-guitar.sf2",
+        "sha256": "11da2018b51a39f99f3cd1ee1880c510d4be8d22756853b56dbac03584dda060",
+        "sizeMB": 25
+      },
+      "highlights": [
+        {
+          "symbolName": "guitars",
+          "title": "Bright without being thin",
+          "detail": "Bronze strings over a resonant body, so the top end has something under it."
+        },
+        {
+          "symbolName": "hand.point.up.left",
+          "title": "Takes a hard hand",
+          "detail": "Plays cleanly at any intensity, which suits gestures that move faster than a plectrum would."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 1,
+        "installedSizeMB": 25,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "sampleRateHz": 44100
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
+      },
+      "voices": [
+        {
+          "name": "Steel String Guitar",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "guitar",
+            "keys",
+            "piano",
+            "sampled",
+            "steel",
+            "string"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "concert-harp",
+      "kind": "sound",
+      "name": "Concert Harp",
+      "tagline": "Forty-seven strings, and a very long decay.",
+      "subtitle": "The most forgiving instrument in the collection.",
+      "description": "The orchestral harp is tuned so that neighbouring strings agree, and its notes ring for a long time over each other. That combination means a hand sweeping across it produces something musical almost regardless of where it lands, which in the air is close to magic. Play it slowly for stillness or sweep it for a wash.",
+      "content": [
+        "One recorded instrument",
+        "Public domain",
+        "Verified to sound"
+      ],
+      "license": "CC0 1.0 Universal. Public domain.",
+      "order": 8,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/concert-harp-v1/concert-harp.sf2",
+        "sha256": "cb5f6b48cff7efd45bf8d302272f76410833034cfbf327c9be954bd5b4a6fc66",
+        "sizeMB": 18
+      },
+      "highlights": [
+        {
+          "symbolName": "water.waves",
+          "title": "Sweeps sound composed",
+          "detail": "Neighbouring notes agree with each other, so a fast pass across the range is a chord rather than a mess."
+        },
+        {
+          "symbolName": "waveform.path",
+          "title": "Long decay",
+          "detail": "Notes ring over one another, so slow hands build harmony instead of leaving gaps."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 1,
+        "installedSizeMB": 18,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "sampleRateHz": 44100
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
+      },
+      "voices": [
+        {
+          "name": "Instrument",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "instrument",
+            "keys",
+            "piano",
+            "sampled"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "drawbar-organ",
+      "kind": "sound",
+      "name": "Drawbar Organ",
+      "tagline": "All pull and body, ready for a rotary cabinet.",
+      "subtitle": "The jazz and gospel organ.",
+      "description": "The drawbar organ has no attack and no decay: a note is either on at full strength or off. That makes it the opposite of everything else here and unusually direct in the air, because a hand's position maps to pitch with nothing in between. Hold chords and it holds them forever.",
+      "content": [
+        "One recorded instrument",
+        "Public domain",
+        "Verified to sound"
+      ],
+      "license": "CC0 1.0 Universal. Public domain.",
+      "order": 9,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/drawbar-organ-v1/drawbar-organ.sf2",
+        "sha256": "200b7d762fb1d4d7dbee34760a768319c7548e94b1a6ba76108f0702888b33ce",
+        "sizeMB": 6
+      },
+      "highlights": [
+        {
+          "symbolName": "building.columns",
+          "title": "On or off, nothing between",
+          "detail": "No envelope at all, so what you hold is exactly what you hear for as long as you hold it."
+        },
+        {
+          "symbolName": "waveform",
+          "title": "Built for holding",
+          "detail": "Infinite sustain suits two hands staying still, which most sampled instruments do not."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 1,
+        "installedSizeMB": 6,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "sampleRateHz": 44100
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
+      },
+      "voices": [
+        {
+          "name": "Drawbar organ",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "drawbar",
+            "keys",
+            "organ",
+            "piano",
+            "sampled"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "church-organ",
+      "kind": "sound",
+      "name": "Church Organ",
+      "tagline": "Built to move air in a very large room.",
+      "subtitle": "The biggest sound in the library.",
+      "description": "Pipe organ, recorded with the room it belongs to. It is the loudest and widest thing Sonari can make, and it does not so much play notes as fill space with them. Slow, held, and low, it is the most physical sound here; up high it turns bright and almost brittle. Both extremes are worth finding.",
+      "content": [
+        "One recorded instrument",
+        "Public domain",
+        "Verified to sound"
+      ],
+      "license": "CC0 1.0 Universal. Public domain.",
+      "order": 10,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/church-organ-v1/church-organ.sf2",
+        "sha256": "15b8d2baf6cd996c602040553e1aa30fe3143199c5c91aa5f8a00b51670ed85a",
+        "sizeMB": 14
+      },
+      "highlights": [
+        {
+          "symbolName": "building.columns",
+          "title": "The room is in the recording",
+          "detail": "Recorded in a real nave, so the space is part of the instrument rather than an effect on it."
+        },
+        {
+          "symbolName": "waveform.path.ecg",
+          "title": "Enormous range",
+          "detail": "From a low pedal that you feel to a top register that cuts, in one instrument."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 1,
+        "installedSizeMB": 14,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "sampleRateHz": 44100
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
+      },
+      "voices": [
+        {
+          "name": "Church organ emulat",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "church",
+            "emulat",
+            "keys",
+            "organ",
+            "piano",
+            "sampled"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "clarinet",
+      "kind": "sound",
+      "name": "Clarinet",
+      "tagline": "Hollow, pure, and even across its whole range.",
+      "subtitle": "A single breath instrument, done properly.",
+      "description": "The clarinet is almost a pure tone with a hollow core, and unusually even from bottom to top. That evenness is what makes it work under hand control: there are no sudden character changes as you move through its range, so a long gesture produces a long line rather than a series of different instruments.",
+      "content": [
+        "One recorded instrument",
+        "Public domain",
+        "Verified to sound"
+      ],
+      "license": "CC0 1.0 Universal. Public domain.",
+      "order": 11,
+      "soundAsset": {
+        "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/clarinet-v1/clarinet.sf2",
+        "sha256": "b5324e7659c2b5994f5e2020e4de3706462bfeec8a79d488f9759eb03aa2ccb9",
+        "sizeMB": 7
+      },
+      "highlights": [
+        {
+          "symbolName": "wind",
+          "title": "Even from top to bottom",
+          "detail": "No register breaks in the tone, so a long sweep stays one instrument."
+        },
+        {
+          "symbolName": "waveform",
+          "title": "A real reed",
+          "detail": "Recorded with the breath in it, which is what stops a solo line sounding synthetic."
+        }
+      ],
+      "families": [
+        {
+          "name": "Keys and Organs",
+          "symbolName": "pianokeys",
+          "count": 1
+        }
+      ],
+      "specs": {
+        "instrumentCount": 1,
+        "installedSizeMB": 7,
+        "format": "SoundFont 2",
+        "stereo": true,
+        "sampleRateHz": 44100
+      },
+      "attribution": {
+        "spdx": "CC0-1.0",
+        "summary": "Public domain under CC0 1.0.",
+        "sourceURL": "https://freepats.zenvoid.org/",
+        "modified": false
+      },
+      "voices": [
+        {
+          "name": "Instrument",
+          "caption": "The full concert grand, sampled string by string.",
+          "symbolName": "pianokeys",
+          "category": "keys",
+          "program": 0,
+          "tags": [
+            "instrument",
+            "keys",
+            "piano",
+            "sampled"
+          ]
+        }
+      ]
+    },
+    {
       "id": "salamander-grand",
       "kind": "sound",
       "name": "Concert Grand Piano",
@@ -23187,7 +23594,7 @@
         "Recorded note by note",
         "The most detailed instrument Sonari offers"
       ],
-      "order": 6,
+      "order": 12,
       "license": "Salamander Grand Piano by Alexander Holm, CC-BY 3.0.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/salamander-grand-v1/salamander-grand.sf2",
@@ -23241,7 +23648,7 @@
         "Public domain",
         "Nineteen megabytes"
       ],
-      "order": 7,
+      "order": 13,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/spanish-guitar-v1/spanish-guitar.sf2",
@@ -23287,7 +23694,7 @@
         "Public domain",
         "Twenty-six megabytes"
       ],
-      "order": 8,
+      "order": 14,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/hang-drum-v1/hang-drum.sf2",
@@ -23333,7 +23740,7 @@
         "Public domain",
         "Twenty-six megabytes"
       ],
-      "order": 9,
+      "order": 15,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/glass-voices-v1/glass-voices.sf2",
@@ -23379,7 +23786,7 @@
         "Public domain",
         "Ten megabytes"
       ],
-      "order": 10,
+      "order": 16,
       "license": "FreePats project, CC0 public domain.",
       "soundAsset": {
         "url": "https://github.com/sahashubhra999/sonari-sound-packs/releases/download/kalimba-real-v1/kalimba-real.sf2",
