@@ -1,5 +1,6 @@
 {
   "schemaVersion": 1,
+  "copyRevision": 1,
   "packs": [
     {
       "id": "atlas",
@@ -9110,7 +9111,27 @@
           ],
           "bank": 128
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "1488ba3d9efaa6193ecbd680f76553ba5847c0efc2d6db1e6af2dcbde78fa906",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 91681,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/atlas-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "4fa9f67697806b5d298c42550b5ead4ddb716ddec6ede377a7aa352cf9e01e30",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 273790,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/atlas-banner.jpg"
+        }
+      },
+      "featuredOrder": 0,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/atlas-banner.jpg"
     },
     {
       "id": "concert-library",
@@ -13736,7 +13757,27 @@
           ],
           "bank": 128
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "d3552574be6ee678bd5f3cad2769d0cd6661f1d77ff736e5cbc476d1c6455531",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 90873,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/concert-library-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "8aec732627e17f57f6476edc01f7eb2cd36b624ecb92c49d6988d5b21f40b459",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 275852,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/concert-library-banner.jpg"
+        }
+      },
+      "featuredOrder": 2,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/concert-library-banner.jpg"
     },
     {
       "id": "studio-gm",
@@ -17995,7 +18036,26 @@
           ],
           "bank": 128
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "99d9cea0c15bc35637b2af8f88275212d3705f267f17e509a9189cb56ed249df",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 67486,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/studio-gm-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "8a19bab45764edd199067d331bc520b76c62793866e35af5c3b0b2734bc3d634",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 191046,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/studio-gm-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/studio-gm-banner.jpg"
     },
     {
       "id": "session-band",
@@ -20746,7 +20806,26 @@
           ],
           "bank": 128
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "275aa3dc6beb4d4f770cae80bb0a9c85cce9f3f75df140ed7395e07d61ac0cfd",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 82776,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/session-band-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "38b724769b9ca6db3206c3ccfe8dfc899b5274dd9a3c4b8cbe0fb58502df0f0c",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 203978,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/session-band-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/session-band-banner.jpg"
     },
     {
       "id": "vintage-fm",
@@ -22604,7 +22683,26 @@
           ],
           "bank": 128
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "ead3ab92987ae954f07c7b6901ba800c6ff9fad807b667cdc1123f44dada24db",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 118574,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/vintage-fm-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "7488e098eb1b55351c4635ea696999f457a7671426e2e1495f4ef27bef50d8ab",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 264468,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/vintage-fm-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/vintage-fm-banner.jpg"
     },
     {
       "id": "synth-voices",
@@ -22933,7 +23031,26 @@
           ],
           "bank": 1
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "b4d5a7a34db9a599820bba18d203dc7b4380931f24dfbc34dbf5fe8c5d0dcce9",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 86729,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/synth-voices-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "0b53cc2b2ddb78850fbb83ae6e507ec672627fc05640804f25296cf84c920003",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 204581,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/synth-voices-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/synth-voices-banner.jpg"
     },
     {
       "id": "struck-and-blown",
@@ -23146,7 +23263,26 @@
             "world"
           ]
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "9f478a3991067312faabfaddbd40f7bcd4e18a9951fc23bf4a88b17d1f70c600",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 78814,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/struck-and-blown-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "33b14d2bc0e95634f3080bfc71e1df30f01b78a622e8732d285ec139379b484b",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 184321,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/struck-and-blown-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/struck-and-blown-banner.jpg"
     },
     {
       "id": "studio-extras",
@@ -23715,7 +23851,26 @@
           ],
           "bank": 128
         }
-      ]
+      ],
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "3d75cd9dd7ec22cceb9ef43a09d5873008aa3d8dd8843acdca3799f227988eea",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 81662,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/studio-extras-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "817ee548477368504a34378eb0d891b7c5074bb7a452c3711b2fc1cdecaa2bd3",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 231958,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/studio-extras-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/studio-extras-banner.jpg"
     },
     {
       "id": "salamander-grand",
@@ -23769,7 +23924,26 @@
         "licenseURL": "https://creativecommons.org/licenses/by/3.0/",
         "modified": true,
         "modificationNote": "Converted to SoundFont for Sonari's sampler."
-      }
+      },
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "d9c92e0298ecb43a5aedf5b3d8c0ce51ace66b2f4d760360bc306e8e11b94813",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 74048,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/salamander-grand-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "2dec891b9e1e73bcd3193de7c8b4fe883553b1ad03d9d2f7367156a2e5ec0fca",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 128945,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/salamander-grand-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/salamander-grand-banner.jpg"
     },
     {
       "id": "spanish-guitar",
@@ -23815,7 +23989,26 @@
         "workTitle": "FreePats Spanish classical guitar",
         "sourceURL": "https://freepats.zenvoid.org/",
         "modified": false
-      }
+      },
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "002637d944388f459093c2a40d48db99c036a8623d1bc1e57817fbbf98a22daf",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 60735,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/spanish-guitar-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "102d9fcbad93fe5a422091cc3b6e25e3777ffeb5023563f0bbe6278d336efbb0",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 154988,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/spanish-guitar-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/spanish-guitar-banner.jpg"
     },
     {
       "id": "hang-drum",
@@ -23861,7 +24054,26 @@
         "workTitle": "FreePats Hang",
         "sourceURL": "https://freepats.zenvoid.org/",
         "modified": false
-      }
+      },
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "26a548518f03f51f98132b6811c95aaf8429227d00e58a2e9ac6c6b6b976bb92",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 71296,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/hang-drum-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "ce94544523812f8d3648f7b8448dfb17e3d34010982db9265350b8fbec58339c",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 144554,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/hang-drum-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/hang-drum-banner.jpg"
     },
     {
       "id": "glass-voices",
@@ -23907,7 +24119,26 @@
         "workTitle": "FreePats Glass",
         "sourceURL": "https://freepats.zenvoid.org/",
         "modified": false
-      }
+      },
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "cf955fee119d0de18c536b60047c4faa390a5a02655e65bd118640182492b308",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 59217,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/glass-voices-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "74b51b56bf2ffca401c710c35ed73905c6aa06305249bf238b61e4b9d7ed6047",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 154887,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/glass-voices-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/glass-voices-banner.jpg"
     },
     {
       "id": "kalimba-real",
@@ -23953,7 +24184,26 @@
         "workTitle": "FreePats Kalimba",
         "sourceURL": "https://freepats.zenvoid.org/",
         "modified": false
-      }
+      },
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "900752b04f57db7dfa1072d012473842f71dcfbecde0b09d25ddaba68b0d3fdd",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 69591,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/kalimba-real-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "0232d3b13a89797f0cd6432dcafa73eff0ebf8e0b9ff9e6ad98f8d68d26220e9",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 147410,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/kalimba-real-banner.jpg"
+        }
+      },
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/kalimba-real-banner.jpg"
     },
     {
       "id": "cosmos",
@@ -23966,7 +24216,7 @@
         "487 looks"
       ],
       "order": 104,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/cosmos-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24004,7 +24254,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Stars, orbits and deep space that answer your playing."
+      "subtitle": "Stars, orbits and deep space that answer your playing.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "e117df101afe8d3f65e196cf596411c1f47c8bc1d8e4a29a57ecedc8e1534add",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 99110,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/cosmos-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "8d52f30cb545ec129c0c449af50044987e3381ce71ab203b5de5a721c2c56176",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 113870,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/cosmos-banner.jpg"
+        }
+      }
     },
     {
       "id": "fractal-depths",
@@ -24017,7 +24285,7 @@
         "333 looks"
       ],
       "order": 107,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/fractal-depths-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24055,7 +24323,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Infinite structure, entered rather than watched."
+      "subtitle": "Infinite structure, entered rather than watched.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "a44a912f1f025691501b7efdeaa822c093e35ee0d38fe3d7ea4bd3daa66179ac",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 69726,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/fractal-depths-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "5d25f9e8d2ee8b5a46b2fbfbdcdf57a7bd57230907be2877934a3eac762f1a3a",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 187821,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/fractal-depths-banner.jpg"
+        }
+      }
     },
     {
       "id": "lattice-and-weave",
@@ -24068,7 +24354,7 @@
         "344 looks"
       ],
       "order": 109,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/lattice-and-weave-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24106,7 +24392,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Structures under tension that bend when you play."
+      "subtitle": "Structures under tension that bend when you play.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "d9b771928d419ec3ef6ef038ac92d700e84cc3845412b8cf8d08d48c1401961a",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 117952,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/lattice-and-weave-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "7458e6bc9bc9f91ee6143d3ac2b2831bb5e743d0df42a14eeabb122decd1b25f",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 222924,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/lattice-and-weave-banner.jpg"
+        }
+      }
     },
     {
       "id": "living-growth",
@@ -24119,7 +24423,7 @@
         "183 looks"
       ],
       "order": 103,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/living-growth-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24157,7 +24461,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Systems that grow while you hold a note."
+      "subtitle": "Systems that grow while you hold a note.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "5912f28440eeb8e533b41ac9d86b4c8390933c446edad6d33ea07922f8d48ac5",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 117348,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/living-growth-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "430a574cbf7aa2c62b605ed2bbba2fdb0c2559aa1e0167755f2a0381928ec19e",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 177053,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/living-growth-banner.jpg"
+        }
+      }
     },
     {
       "id": "living-notes",
@@ -24170,7 +24492,7 @@
         "294 looks"
       ],
       "order": 111,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/living-notes-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24208,20 +24530,38 @@
         "format": "Visual pack",
         "installedSizeMB": 6
       },
-      "subtitle": "Visuals that show what you played, not just that you played."
+      "subtitle": "Visuals that show what you played, not just that you played.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "4892c3a34e186eda311d9d4f628ef6d51cab78bfb4e0e5ee6be1c67cd340bae5",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 72825,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/living-notes-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "8df5e442f117f697d93425954530ddeef1beb0c545a217e9c250e263010e172e",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 226711,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/living-notes-banner.jpg"
+        }
+      }
     },
     {
       "id": "painted-worlds",
       "kind": "visual",
       "name": "Painted Worlds",
       "tagline": "Art history, played rather than viewed.",
-      "description": "Sixty-one painting styles rebuilt as instruments. Brushwork follows your melody, palettes move with your key, and every era answers your dynamics in its own logic. These are not filters laid over a picture; the canvas is painted while you play.",
+      "description": "Sixty-one painting styles, rebuilt so a performance makes them. Brushwork follows your melody, palettes move with your key, and every era answers your dynamics in its own logic. These are not filters laid over a picture; the canvas is painted while you play.",
       "content": [
         "61 visuals",
         "300 looks"
       ],
       "order": 101,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/painted-worlds-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24259,7 +24599,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Art history, played rather than viewed."
+      "subtitle": "Art history, played rather than viewed.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "3cb814abf59bffb0f9611a0c6799587cf2a9331032ef846ba7253284d982ac0f",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 118307,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/painted-worlds-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "12e8b7d796e7cc97370a37dc36771d5a3c904f63a5016c3d9cd6c4c8a324df91",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 250907,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/painted-worlds-banner.jpg"
+        }
+      }
     },
     {
       "id": "particles",
@@ -24272,7 +24630,7 @@
         "161 looks"
       ],
       "order": 105,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/particles-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24310,7 +24668,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Swarms and dust that take a real kick from every attack."
+      "subtitle": "Swarms and dust that take a real kick from every attack.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "6c679f31cd32a0257299eb82b019e32517fa29c4ac258aeb627e77fe55e1ecfb",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 100101,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/particles-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "ca55e338e4c0733726f8a33654aaf6a3f8baf91457c9e2ac0e9ff7507b66336b",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 223555,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/particles-banner.jpg"
+        }
+      }
     },
     {
       "id": "psychedelia",
@@ -24323,7 +24699,7 @@
         "421 looks"
       ],
       "order": 108,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/psychedelia-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24361,7 +24737,26 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Warp, melt and feedback that follow your hands."
+      "subtitle": "Warp, melt and feedback that follow your hands.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "de4864484a490212f4b58359eeb6c1571e9f51b9a3568e8738283f2e2f511322",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 86305,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/psychedelia-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "11056005f4217ec1ae121039c590140451aaed33fb4c47abd7be866a885b5775",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 187067,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/psychedelia-banner.jpg"
+        }
+      },
+      "featuredOrder": 3
     },
     {
       "id": "sacred-geometry",
@@ -24374,7 +24769,7 @@
         "348 looks"
       ],
       "order": 102,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/sacred-geometry-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24412,20 +24807,39 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Mandalas, tessellations and symmetry that answers your hands."
+      "subtitle": "Mandalas, tessellations and symmetry that answers your hands.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "f164e50817b53fd03a0ddde8d6edae550e79c08ae25db4f980504447ecaa7495",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 110690,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/sacred-geometry-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "9397120c2b59062c69e74bccf397cab173dbfcbed8dd7036d6132d25156ffdff",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 236554,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/sacred-geometry-banner.jpg"
+        }
+      },
+      "featuredOrder": 1
     },
     {
       "id": "signals",
       "kind": "visual",
       "name": "Signals",
-      "tagline": "Waveforms, scopes and the raw shape of sound.",
+      "tagline": "Waveforms, scopes and the raw shape of what you play.",
       "description": "Ninety families that draw the signal rather than interpret it: oscilloscopes, spectrum weaves, contour traces and displacement fields. The most direct relationship between what you hear and what you see, and the best choice when you want the visual to be legible rather than beautiful.",
       "content": [
         "89 visuals",
         "297 looks"
       ],
       "order": 112,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/signals-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24463,7 +24877,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Waveforms, scopes and the raw shape of sound."
+      "subtitle": "Waveforms, scopes and the raw shape of what you play.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "c9c203828e61e7801255072d1221bdb52639c871c470557b41e2471e345c47c4",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 87377,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/signals-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "47d1309675ad533aeb1398570721f084dea118043d8af39baf9ff2fd59e85e11",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 215968,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/signals-banner.jpg"
+        }
+      }
     },
     {
       "id": "structure",
@@ -24476,7 +24908,7 @@
         "485 looks"
       ],
       "order": 110,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/structure-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24514,7 +24946,25 @@
         "format": "Visual pack",
         "installedSizeMB": 6
       },
-      "subtitle": "Geometry that turns what you play into architecture."
+      "subtitle": "Geometry that turns what you play into architecture.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "91314ce4c74707d3abefea0c789a2c97bbd634e6e316c2df154fdd23724292c6",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 54612,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/structure-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "8f177efa461adcb9674c0dfa7864c29fe0ff7e9c23fb73141361607307d031a4",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 117077,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/structure-banner.jpg"
+        }
+      }
     },
     {
       "id": "water-and-air",
@@ -24527,7 +24977,7 @@
         "303 looks"
       ],
       "order": 106,
-      "coverURL": null,
+      "coverURL": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/water-and-air-banner.jpg",
       "visualAssets": [
         {
           "abi": 2,
@@ -24565,7 +25015,25 @@
         "format": "Visual pack",
         "installedSizeMB": 5
       },
-      "subtitle": "Fluids that ripple where your notes land."
+      "subtitle": "Fluids that ripple where your notes land.",
+      "artwork": {
+        "thumbnail": {
+          "path": "Artwork/thumbnail.jpg",
+          "sha256": "67e128e8bf07ee9bcefff8579bb9537d3e82ba4a9d16253b31f0d875a07740fc",
+          "pixelWidth": 640,
+          "pixelHeight": 640,
+          "byteCount": 79826,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/water-and-air-thumbnail.jpg"
+        },
+        "banner": {
+          "path": "Artwork/banner.jpg",
+          "sha256": "60f43973e792635c3e69a86d542e3a01b7cc9f3bdc61b86f8cf7947861c2d159",
+          "pixelWidth": 1600,
+          "pixelHeight": 900,
+          "byteCount": 211464,
+          "url": "https://github.com/sahashubhra999/sonari-packs/releases/download/pack-artwork-v1/water-and-air-banner.jpg"
+        }
+      }
     }
   ]
 }
